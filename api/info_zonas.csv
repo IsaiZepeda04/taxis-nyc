@@ -1,0 +1,59 @@
+PULocationID,nombre_zona,distrito,total_viajes
+4,Alphabet City,Manhattan,3568
+13,Battery Park City,Manhattan,15877
+24,Bloomingdale,Manhattan,7849
+41,Central Harlem,Manhattan,6832
+42,Central Harlem North,Manhattan,3152
+43,Central Park,Manhattan,48279
+45,Chinatown,Manhattan,3824
+48,Clinton East,Manhattan,76476
+50,Clinton West,Manhattan,16262
+68,East Chelsea,Manhattan,77685
+70,East Elmhurst,Queens,12285
+74,East Harlem North,Manhattan,6144
+75,East Harlem South,Manhattan,18255
+79,East Village,Manhattan,65935
+87,Financial District North,Manhattan,12102
+88,Financial District South,Manhattan,7008
+90,Flatiron,Manhattan,46496
+100,Garment District,Manhattan,48093
+107,Gramercy,Manhattan,59367
+113,Greenwich Village North,Manhattan,40530
+114,Greenwich Village South,Manhattan,40344
+125,Hudson Sq,Manhattan,13708
+132,JFK Airport,Queens,145240
+137,Kips Bay,Manhattan,32983
+138,LaGuardia Airport,Queens,89530
+140,Lenox Hill East,Manhattan,66060
+141,Lenox Hill West,Manhattan,73946
+142,Lincoln Square East,Manhattan,104080
+143,Lincoln Square West,Manhattan,35562
+144,Little Italy/NoLiTa,Manhattan,25617
+148,Lower East Side,Manhattan,27964
+151,Manhattan Valley,Manhattan,24381
+158,Meatpacking/West Village West,Manhattan,23722
+161,Midtown Center,Manhattan,143469
+162,Midtown East,Manhattan,106717
+163,Midtown North,Manhattan,85691
+164,Midtown South,Manhattan,64912
+166,Morningside Heights,Manhattan,13806
+170,Murray Hill,Manhattan,83062
+186,Penn Station/Madison Sq West,Manhattan,104522
+209,Seaport,Manhattan,4481
+211,SoHo,Manhattan,20197
+224,Stuy Town/Peter Cooper Village,Manhattan,3704
+229,Sutton Place/Turtle Bay North,Manhattan,55219
+230,Times Sq/Theatre District,Manhattan,106324
+231,TriBeCa/Civic Center,Manhattan,37050
+232,Two Bridges/Seward Park,Manhattan,3737
+233,UN/Turtle Bay South,Manhattan,33595
+234,Union Sq,Manhattan,76156
+236,Upper East Side North,Manhattan,136464
+237,Upper East Side South,Manhattan,142707
+238,Upper West Side North,Manhattan,64234
+239,Upper West Side South,Manhattan,88474
+246,West Chelsea/Hudson Yards,Manhattan,50558
+249,West Village,Manhattan,66227
+261,World Trade Center,Manhattan,12893
+262,Yorkville East,Manhattan,42801
+263,Yorkville West,Manhattan,59797
