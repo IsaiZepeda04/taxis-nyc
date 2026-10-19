@@ -1,0 +1,5 @@
+cluster,nombre_grupo,descripcion
+0,Actividad matutina · viajes de larga distancia,Grupo caracterizado principalmente por actividad matutina y viajes de larga distancia en comparación con los demás segmentos.
+1,Actividad vespertina · alta demanda,Grupo caracterizado principalmente por actividad vespertina y alta demanda en comparación con los demás segmentos.
+2,Tarifas elevadas · viajes de larga distancia,Grupo caracterizado principalmente por tarifas elevadas y viajes de larga distancia en comparación con los demás segmentos.
+3,Actividad nocturna · actividad de fin de semana,Grupo caracterizado principalmente por actividad nocturna y actividad de fin de semana en comparación con los demás segmentos.
