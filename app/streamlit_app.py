@@ -2,7 +2,7 @@ import streamlit as st
 
 
 # ============================================================
-# CONFIGURACIÓN GENERAL DE LA APLICACIÓN
+# CONFIGURACIÓN GENERAL
 # ============================================================
 
 st.set_page_config(
@@ -13,20 +13,37 @@ st.set_page_config(
 
 
 # ============================================================
-# NAVEGACIÓN
+# PÁGINAS
 # ============================================================
 
-# En esta etapa solo publicamos la página de segmentación.
-# Las demás páginas se agregarán en las siguientes fases.
+pagina_pronostico = st.Page(
+    "paginas/pronostico.py",
+    title="Pronóstico",
+    icon="📈",
+)
+
 pagina_segmentacion = st.Page(
     "paginas/segmentacion.py",
     title="Segmentación de zonas",
     icon="🗺️",
 )
 
+pagina_decision = st.Page(
+    "paginas/decision.py",
+    title="Decisión",
+    icon="🚕",
+)
+
+
+# ============================================================
+# NAVEGACIÓN
+# ============================================================
+
 navegacion = st.navigation(
     [
+        pagina_pronostico,
         pagina_segmentacion,
+        pagina_decision,
     ]
 )
 

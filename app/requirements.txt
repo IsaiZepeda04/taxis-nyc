@@ -1,6 +1,7 @@
-streamlit
+fastapi
+uvicorn
+xgboost>=2.0
+scikit-learn
 pandas
-plotly
-requests
 numpy==1.26.4
 pyarrow==17.0.0

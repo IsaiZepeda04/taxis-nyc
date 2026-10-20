@@ -1,4 +1,6 @@
-
 fastapi
 uvicorn
+xgboost>=2.0
 pandas
+numpy
+pyarrow

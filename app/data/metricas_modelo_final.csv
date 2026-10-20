@@ -1,0 +1,7 @@
+metrica,valor
+mae_baseline_semanal,11.881773399014778
+rmse_baseline_semanal,21.878846131502847
+mae_xgboost_p50,11.887516375795109
+rmse_xgboost_p50,22.45314153105257
+cobertura_p10_p90,0.8998357963875205
+ancho_medio_p10_p90,49.60808563232422

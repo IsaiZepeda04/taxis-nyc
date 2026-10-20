@@ -226,7 +226,7 @@ fig_pca.update_layout(
 
 evento = st.plotly_chart(
     fig_pca,
-    use_container_width=True,
+    width="stretch",
     on_select="rerun",
     selection_mode=(
         "points",
@@ -387,7 +387,7 @@ fig_horario.update_layout(
 
 st.plotly_chart(
     fig_horario,
-    use_container_width=True,
+    width="stretch",
 )
 
 st.caption(
@@ -429,7 +429,7 @@ for columna in [
 
 st.dataframe(
     tabla,
-    use_container_width=True,
+    width="stretch",
     hide_index=True,
     column_config={
         "zona": "Zona",
@@ -504,7 +504,7 @@ with st.expander(
 
     st.plotly_chart(
         fig_silueta,
-        use_container_width=True,
+        width="stretch",
     )
 
     st.info(
