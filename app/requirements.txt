@@ -1,6 +1,4 @@
-fastapi
-uvicorn
-streamlit=1.66.0
+streamlit
 pandas
 plotly
 requests
