@@ -13,10 +13,9 @@ La solución permite consultar pronósticos horarios con incertidumbre, explorar
 
 > La API utiliza una instancia gratuita de Render, por lo que puede tardar algunos segundos en responder después de un periodo de inactividad.
 
-## Integrantes
+## Integrante
 
 - **Leonardo Isai Zepeda Tolentino**
-- **[Nombre del segundo integrante]**
 
 ## Objetivo
 
