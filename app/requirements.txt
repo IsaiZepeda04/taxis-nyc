@@ -1,8 +1,6 @@
 fastapi
 uvicorn
-xgboost>=2.0
-scikit-learn
+streamlit=1.66.0
 pandas
-numpy==1.26.4
-pyarrow==17.0.0
-streamlit==1.66.0
+plotly
+requests
