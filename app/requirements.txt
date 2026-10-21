@@ -5,3 +5,4 @@ scikit-learn
 pandas
 numpy==1.26.4
 pyarrow==17.0.0
+streamlit==1.66.0
